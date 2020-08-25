@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently working on **C# projects**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=airkek&show_icons=true" alt="ericksonodiaga" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=airkek&show_icons=true" alt="Keijia" /> </p>
