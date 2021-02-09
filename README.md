@@ -6,4 +6,7 @@
 
 - 🔭 I’m currently working on **my school project**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=airkek&show_icons=true" alt="Keijia" /> </p>
+<p align="center"> 
+  <img src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Airkek&count_private=true&show_icons=true&theme=tokyonight" /> 
+  <img src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Airkek&hide=php&theme=tokyonight" />
+</p>
