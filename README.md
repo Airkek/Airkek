@@ -6,7 +6,5 @@
 
 - 🔭 I’m currently working on **my school project**
 
-<p align="center"> 
-  <img src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Airkek&count_private=true&show_icons=true&theme=tokyonight" /> 
-  <img src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Airkek&hide=php&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Airkek&count_private=true&show_icons=true&theme=tokyonight" /> </p>
+<p align="center">  <img src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Airkek&hide=php&theme=tokyonight" /> </p>
