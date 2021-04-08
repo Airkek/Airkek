@@ -3,5 +3,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airkek" alt="Keijia" /> </p>
 
-<p align="center"> <img src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Airkek&count_private=true&show_icons=true&theme=tokyonight" /> </p>
-<p align="center">  <img src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Airkek&hide=php&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Airkek&count_private=true&show_icons=true&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airkek&theme=tokyonight" /> </p>
